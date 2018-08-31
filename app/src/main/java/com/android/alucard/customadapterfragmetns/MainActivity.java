@@ -19,11 +19,19 @@ public class MainActivity extends AppCompatActivity implements MapsInterface {
 //    ListViewAdapter listViewAdapter;
 
 
-
+    /**
+     * Array of Countries
+     *
+     *
+     */
     String[] countries = {"china", "india", "USA", "japan", "nepal",
             "china", "india", "USA", "japan", "nepal",
             "china", "india", "USA", "japan", "nepal", };
-
+    /**
+     * Array of pics
+     *
+     *
+     */
     int[] myPics = {R.drawable.china, R.drawable.india, R.drawable.japan, R.drawable.usa, R.drawable.nepal,
             R.drawable.china, R.drawable.india, R.drawable.japan, R.drawable.usa, R.drawable.nepal,
             R.drawable.china, R.drawable.india, R.drawable.japan, R.drawable.usa, R.drawable.nepal};
