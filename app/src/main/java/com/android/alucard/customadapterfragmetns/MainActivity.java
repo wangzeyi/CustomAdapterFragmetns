@@ -12,7 +12,7 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity implements MapsInterface {
 
     //Dragos
-    //Your code is perfect!
+    //Your code is perfect!!
     private static final String TAG = "MainActivity";
 
 //    ListView listView;
