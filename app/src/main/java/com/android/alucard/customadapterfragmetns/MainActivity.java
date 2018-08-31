@@ -7,7 +7,7 @@ import android.util.Log;
 import android.widget.ListView;
 
 /**
- * andy sucks
+ * andy reviews
  */
 public class MainActivity extends AppCompatActivity implements MapsInterface {
 
