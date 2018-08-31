@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.ListView;
 
+/**
+ * andy sucks
+ */
 public class MainActivity extends AppCompatActivity implements MapsInterface {
 
     private static final String TAG = "MainActivity";
